@@ -40,7 +40,10 @@ This repository contains a Vision Transformer (ViT) based autoencoder for image 
      dataSet/
        ├── classified_kraftig/
            ├── train/
+               |── good
            ├── test/
+               |── good
+               |── anomalous
      ```
 
 ## Usage
