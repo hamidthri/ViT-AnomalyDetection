@@ -20,7 +20,7 @@ This repository contains a Vision Transformer (ViT) based autoencoder for image 
 
 1. Clone the repository:
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/hamidthri/ViT-AnomalyDetection
     cd vit-autoencoder
     ```
 
