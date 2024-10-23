@@ -29,12 +29,8 @@ This repository contains a Vision Transformer (ViT) based autoencoder for image 
     pip install -r requirements.txt
     ```
 
-3. Install `timm` for Vision Transformer models:
-    ```bash
-    pip install timm
-    ```
 
-4. Set up the dataset structure:
+3. Set up the dataset structure:
    - Make sure your dataset is structured as follows:
      ```plaintext
      dataSet/
